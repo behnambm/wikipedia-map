@@ -1,0 +1,9 @@
+https://www.mapbox.com/   # map api for leafletjs.com  
+https://account.mapbox.com  --> API Key
+
+https://leafletjs.com/   # provides a map layer
+
+https://locationiq.com/   # to get geo coordinates(latitude & longitude) from and address
+
+https://en.wikipedia.org/w/api.php?action=help&modules=query%2Bgeosearch 
+# to find places around an address, that has a page in Wikipedia
